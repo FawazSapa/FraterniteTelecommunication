@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FraterniteTelecommunication/static/css/main.cfd48ee5.css",
+    "main.js": "/FraterniteTelecommunication/static/js/main.68b98f58.js",
+    "static/media/Fraternité.png": "/FraterniteTelecommunication/static/media/Fraternité.b7254cca3b09eb0508e3.png",
+    "static/media/single.png": "/FraterniteTelecommunication/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/FraterniteTelecommunication/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/FraterniteTelecommunication/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/FraterniteTelecommunication/index.html",
+    "main.cfd48ee5.css.map": "/FraterniteTelecommunication/static/css/main.cfd48ee5.css.map",
+    "main.68b98f58.js.map": "/FraterniteTelecommunication/static/js/main.68b98f58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd48ee5.css",
+    "static/js/main.68b98f58.js"
+  ]
+}
