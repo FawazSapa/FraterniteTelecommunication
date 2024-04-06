@@ -2,6 +2,9 @@
 
 This project focuses on creating a user-centric website for Fraternité Telecommunication, emphasizing responsive design and captivating user interface elements.
 
+# Github Pages
+You can access the website [here](https://fawazsapa.github.io/FraterniteTelecommunication/)
+
 ## Overview
 
 The Fraternité Telecommunication website is developed using React JS and [Tailwind CSS](https://tailwindcss.com/) to ensure optimal viewing and seamless functionality across various devices. With a user-first approach, the website aims to provide an engaging and intuitive experience for visitors.
